@@ -371,7 +371,7 @@ body {
     .header .bg-video video {
       -o-object-fit: contain;
          object-fit: contain; }
-  @media only screen and (max-width: 1299px) {
+  @media only screen and (max-width: 1367px) {
     .header-bottom img {
       width: 756px;
       height: 269px; } }
@@ -388,7 +388,7 @@ body {
     z-index: 1000;
     padding-top: 15px;
     position: relative; }
-    @media only screen and (max-width: 1299px) {
+    @media only screen and (max-width: 1367px) {
       .header-tel {
         padding-top: 5px; } }
     .header-tel a {
@@ -418,7 +418,7 @@ body {
     z-index: 1000;
     position: relative;
     margin-top: 50px; }
-    @media only screen and (max-width: 1299px) {
+    @media only screen and (max-width: 1367px) {
       .header-menu {
         margin-top: 40px; } }
     .header-menu ul li {
@@ -436,7 +436,7 @@ body {
         -moz-transition: all 0.8s ease;
         -o-transition: all 0.8s ease;
         -ms-transition: all 0.8s ease; }
-        @media only screen and (max-width: 1299px) {
+        @media only screen and (max-width: 1367px) {
           .header-menu ul li a {
             font-size: 18px; } }
         .header-menu ul li a:hover {
@@ -453,7 +453,7 @@ body {
       width: 937px;
       display: block;
       margin: 0 auto; }
-      @media only screen and (max-width: 1299px) {
+      @media only screen and (max-width: 1367px) {
         .header-bottom a {
           width: 756px; } }
 
